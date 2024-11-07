@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    background-image: url(/images/Infographic2.png);
+    background-repeat: no-repeat;
+    border: 375px 667px;
+    background-size: cover;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+img  {
+    width: 50px;
+
+}
+h1 {
+    color: white;
+    border: 1px;
+    font-size: medium;
+}
+
+.kruisjes {
+    display: flex;
+}
+
+#oranje {
+    margin-left: 90px;
+    margin-top: 60px;
+}
+#groen {
+    margin-right: 130px;
+}
+#paars {
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+#rood {
+    margin-top: 120px
+}
